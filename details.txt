@@ -1,0 +1,6 @@
+env -shop
+
+admin details
+
+username - shop
+pw - 1234
